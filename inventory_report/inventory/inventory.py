@@ -45,3 +45,5 @@ class Inventory:
             return SimpleReport.generate(dicionario)
         elif (type == "completo"):
             return CompleteReport.generate(dicionario)
+
+# testando avaliador
